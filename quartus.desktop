@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=13
+Name=Quartus II Web Edition v13.0
+Comment=Quartus II design software for Altera Boards
+Exec=/home/david/altera/13.0sp1/quartus/bin/quartus --64bit
+Icon=/home/david/altera/13.0sp1/quartus/adm/quartusii.png
+Terminal=false
+Type=Application
+Categories=Development
+StartupWMClass=Quartus
+StartupNotify=true

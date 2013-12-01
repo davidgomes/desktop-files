@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=3.0.6
+Name=Teamspeak 3
+GenericName=Teamspeak
+Exec=/home/david/Downloads/TeamSpeak3-Client-linux_amd64/ts3client_runscript.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/david/Downloads/TeamSpeak3-Client-linux_amd64/pluginsdk/docs/client_html/images/logo.png
+StartupWMClass=Teamspeak
+StartupNotify=true
